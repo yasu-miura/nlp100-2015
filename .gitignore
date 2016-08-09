@@ -65,3 +65,4 @@ bin/
 include/
 lib/
 pip-selfcheck.json
+.python-version
