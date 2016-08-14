@@ -66,3 +66,4 @@ include/
 lib/
 pip-selfcheck.json
 .python-version
+.idea/
